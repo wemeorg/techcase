@@ -1,4 +1,8 @@
-[![weme logo](https://uploads-ssl.webflow.com/64777a8d9e690fab7ae929ff/649bd8ed4b3a895b4e593264_Group%2083.svg)](https://www.weme.com.br/)
+<p align="center">
+  <a href="https://www.weme.com.br/">
+    <img src="https://uploads-ssl.webflow.com/64777a8d9e690fab7ae929ff/649bd8ed4b3a895b4e593264_Group%2083.svg" alt="weme logo" width="200" height="78"/>
+  </a>
+</p>
 
 ## weme - Case FullStack
 
