@@ -39,7 +39,7 @@ Sabemos o quão difícil pode ser lembrar de todas as senhas que usamos diariame
 *   **Cadastro de credencial do tipo Cartão:** para registrar uma credencial do tipo cartão, o usuário deverá fornecer o número do cartão, o nome impresso, o código de segurança, a data de expiração, a senha e um título/nome/rótulo único.  
 *   **Cadastro de credencial do tipo Email:** para registrar uma credencial do tipo Email, o usuário deverá fornecer uma URL referente ao cadastro que está sendo feito (ex.: https://mail.google.com/, https://outlook.live.com/), o e-mail, a senha e um título/nome/rótulo único.
 *   **Edição das credenciais:** todas as credenciais do usuário devem poder ser editadas.
-*   **Validação de Senhas Fortes:** deve sempre ser indicado a cada digitação, próximo ao campo da senha, a quantidade mínima de caracteres faltantes para ter uma senha forte! ([de acordo com o desafio de senhas fortes](https://github.com/wemeorg/techcase/blob/dev/strongpass.md)) <- clica aqui ;)
+*   **Validação de Senhas Fortes:** deve sempre ser indicado a cada digitação, próximo ao campo da senha, a quantidade mínima de caracteres faltantes para ter uma senha forte! ([de acordo com o desafio das senhas fortes](https://github.com/wemeorg/techcase/blob/dev/strongpass.md)) <- clica aqui ;)
 
 ### Requisitos opcionais
 
@@ -50,8 +50,9 @@ Sabemos o quão difícil pode ser lembrar de todas as senhas que usamos diariame
 
 ### Durante o desenvolvimento, lembre-se:
 
-*   Em caso de deploy, mantenha o banco de dados vazio e não teste com dados reais.
-*   Em caso de duvida estaremos a disposição :)
+*   Crie e organize do seu jeitinho o(s) repositório(s), só deixe aberto para poder nos enviar ;)
+*   Em caso de deploy, mantenha o banco de dados vazio e **não teste com dados reais**!
+*   Em caso de dúvidas, estaremos a disposição!
 *   Em caso de qualquer imprevisto, nos procure :)
 
 ### "we" more than "me". Vem conosco impulsionar um futuro melhor e sustentável para todos?
