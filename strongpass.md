@@ -27,8 +27,10 @@ special_characters = "!@#$%^&*()-+"
 #### Exemplos:
 **password = '2bbbb'**
 Esta senha tem 5 caracteres e está faltando um caractere maiúsculo e um caractere especial. O número mínimo de caracteres a serem adicionados é 2.
+
 ![strong pass example](https://github.com/wemeorg/techcase/blob/dev/passample1.png?raw=true)
 
 **password = '2bb#A'**
 Esta senha tem 5 caracteres e possui pelo menos um caractere de cada tipo. O número mínimo de caracteres a serem adicionados é 1.
+
 ![strong pass example](https://github.com/wemeorg/techcase/blob/dev/passample2.png?raw=true)
