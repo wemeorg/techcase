@@ -55,4 +55,10 @@ Sabemos o quão difícil pode ser lembrar de todas as senhas que usamos diariame
 *   Em caso de dúvidas, estaremos a disposição!
 *   Em caso de qualquer imprevisto, nos procure :)
 
+### Entrega:
+
+*   Sugerimos até uma semana para conlusão do case!
+*   Qualquer dúvidas ou imprevistos não deixe de nos procurar :)
+*   Nos envie o(s) link(s) repositório(s), e caso faça deploy, o link da plataforma online também!
+
 ### "we" more than "me". Vem conosco impulsionar um futuro melhor e sustentável para todos?
